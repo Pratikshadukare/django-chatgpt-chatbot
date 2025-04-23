@@ -1,0 +1,25 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environments
+env/
+venv/
+myenv/
+
+# Django stuff:
+*.sqlite3
+db.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Mac/Linux stuff
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Migrations
+**/migrations/*.pyc
+**/migrations/__pycache__/
